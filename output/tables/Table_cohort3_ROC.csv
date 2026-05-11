@@ -1,0 +1,4 @@
+"Comparison","n","AUC","AUC_CI_lower","AUC_CI_upper","Interpretation"
+"HNSCC vs HC",239,0.98,0.9654,0.9946,"Primary diagnostic performance"
+"HNSCC vs OPMDs",149,0.7097,0.6109,0.8084,"Disease specificity (HNSCC vs pre-malignant)"
+"OPMDs vs HC",150,0.9444,0.9083,0.9806,"Selectivity check (low AUC expected)"

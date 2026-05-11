@@ -1,0 +1,2 @@
+"Cohort","n","n_HNSCC","n_HC","AUC","AUC_CI_lower","AUC_CI_upper","Sensitivity","Specificity","PPV","NPV","Accuracy"
+"Cohort 2",171,90,81,0.9014,0.8529,0.95,91.1,80.2,83.7,89,86
